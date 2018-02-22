@@ -1,0 +1,14 @@
+<resources>
+        <dimen name="elevation">6dp</dimen>
+    <dimen name="list_bottom_margin">36dp</dimen>
+    <dimen name="max_image_height">400dp</dimen>
+    <dimen name="expanded_title_margin_end">96dp</dimen>
+    <dimen name="expanded_title_margin_start">72dp</dimen>
+    <dimen name="text_padding_botton_top">15dp</dimen>
+    <dimen name="text_padding_start_end">24dp</dimen>
+
+    <dimen name="article_line_size">22sp</dimen>
+    <dimen name="article_body_padding">24dp</dimen>
+    <dimen name="article_body_size">25sp</dimen>
+    <dimen name="fab_margin_end">22dp</dimen>
+</resources>
